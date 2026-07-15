@@ -1,0 +1,7 @@
+colorama
+pymem
+requests
+lxml
+mss
+keyboard
+psutil
